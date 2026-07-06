@@ -39,7 +39,8 @@ It includes advanced text processing, visualization, and exploratory techniques 
 
 ## ⚙️ Tech Stack
 
-- Python 🐍  
+- Python 🐍
+- Jupyter Notebook
 - Google Colab  
 
 ### Libraries Used:
