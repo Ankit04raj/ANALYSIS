@@ -2,6 +2,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Colab-orange)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Domain](https://img.shields.io/badge/Domain-NLP%20%7C%20Data%20Analysis-green)
 
 ---
